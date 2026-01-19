@@ -6,7 +6,6 @@ This is me **testing** out a single commit! It __looks__ like a ~~pretty fun.~~
 
 - [x] Yes
 - [ ] No
-- [ ] H*ll Yea
 
 ## Have you ever been in Monaco?
 - [ ] Yes
